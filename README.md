@@ -10,9 +10,9 @@
 
 ---
 
-### Name: Enter your name
+### Name: Brody Reynolds
 
-### Email: Enter your OU email
+### Email: br750418@ohio.edu
 
 ---
 
